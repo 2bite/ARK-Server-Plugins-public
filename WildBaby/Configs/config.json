@@ -1,0 +1,6 @@
+{
+  "AdultMaxLevel": 100,
+  "AdultToBabyChance": 40,
+  "BabyMinAge": 0.1,
+  "BabyMaxAge": 0.9
+}
