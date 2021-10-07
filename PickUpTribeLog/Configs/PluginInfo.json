@@ -1,0 +1,6 @@
+{
+  "FullName":"PickUpTribeLog",
+  "Description":"Add a pickup of structure in the tribe log",
+  "Version":1.0,
+  "MinApiVersion":3.52
+}

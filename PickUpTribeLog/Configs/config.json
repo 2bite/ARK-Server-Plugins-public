@@ -1,0 +1,4 @@
+{
+  "Debug": true,
+  "LogFormat": "{} picked up a '{}'"
+}
