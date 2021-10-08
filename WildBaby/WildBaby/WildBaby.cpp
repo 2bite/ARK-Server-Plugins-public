@@ -16,12 +16,6 @@ float baby_max_age;
 
 DECLARE_HOOK(ANPCZoneManager_SpawnNPC, APrimalDinoCharacter*, ANPCZoneManager*, TSubclassOf<APrimalDinoCharacter>, FVector*, bool, int, float, bool, float, float, float, float, TSubclassOf<UPrimalColorSet>);
 
-template <class T>
-static bool IsValid(T* object)
-{
-	return object != nullptr && object->IsValidLowLevel();
-}
-
 int GetRandomInt(int min, int max)
 {
 	const int n = max - min + 1;
