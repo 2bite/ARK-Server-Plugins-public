@@ -1,0 +1,6 @@
+{
+  "FullName":"IgnorePassiveDamage",
+  "Description":"Ignore passive damage to Structures",
+  "Version":1.0,
+  "MinApiVersion":3.52
+}
